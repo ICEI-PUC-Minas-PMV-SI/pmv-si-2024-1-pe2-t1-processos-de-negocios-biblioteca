@@ -1,9 +1,9 @@
 # Documentação do projeto
 
-Liste os documentos disponibilizados nesta pasta com uma breve descrição do conteúdo de cada um deles.
+Disponilizamos aqui o relatório final do trabalho desenvolvido Biblioteca - Smart Library e os arquivos de apresentação em slides e vídeo.
 
-* relatorio_final.pdf - Relatório do projeto.
-* apresentacao.mkv - Vídeo de apresentação do projeto.
-* slides.pptx - Slides da apresentação final do projeto.
+* Relatório Final_Aplicações para processos de negócios - Smart Library.
+* Vídeo Apresentação - Biblioteca Smart Library
+* Slides de Apresentação - Biblioteca Smart Library
 
 

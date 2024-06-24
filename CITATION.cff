@@ -1,44 +1,36 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Santos Soares
+    given-names: Fabiana 
+  - family-names: Acacio Costa
+    given-names: Filipe 
+  - family-names: Amorim Santos Maia
+    given-names: Gabriel 
+  - family-names: Stevão Amilar Costa
+    given-names: Grégory 
+  - family-names: Oliveira
+    given-names: João 
+  - family-names: Aparecida Campos de Oliveira Pertence
+    given-names: Viviane
     
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
     given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
   
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Biblioteca"
+  - "Smart Library"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t1-processos-de-negocios-biblioteca"
+title: "Aplicações para processos de negócios - Smart Library"
 abstract: |
     "
-    Breve descrição do projeto
+    O desenvolvimento de novas tecnologias, ferramentas e dispositivos para acesso a um acervo de livros e leitura online, são alguns exemplos de situações enfrentadas pelas bibliotecas e que impactam diretamente no negócio. Estudos apontam que muitos usuários deixam de procurar as bibliotecas devido à dificuldade quanto ao tempo disponível e à acessibilidade. Diante deste cenário, percebe-se a necessidade de que as bibliotecas se adaptem a essa nova realidade, promovendo acessibilidade, disponibilidade, por meio de uma gestão eficaz. Assim, o principal objetivo deste projeto é o desenvolvimento de um sistema de informação capaz de promover uma gestão eficiente para bibliotecas.
     "
 ...

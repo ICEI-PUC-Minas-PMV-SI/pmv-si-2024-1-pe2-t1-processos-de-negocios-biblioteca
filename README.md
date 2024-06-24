@@ -10,7 +10,7 @@ O desenvolvimento de novas tecnologias, ferramentas e dispositivos para acesso a
 * Grégory Stevão Amilar Costa
 * João Oliveira
 * Viviane Aparecida Campos de Oliveira Pertence
-* 
+   
 ## Professor
 
 * Eveline Alonso Veloso

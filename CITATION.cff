@@ -13,12 +13,10 @@ authors:
     given-names: João 
   - family-names: Aparecida Campos de Oliveira Pertence
     given-names: Viviane
-    
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
-    given-names: Eveline Alonso
-  
+    given-names: Eveline Alonso  
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
